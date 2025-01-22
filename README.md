@@ -16,10 +16,11 @@ Should include:
 Tables
 | Color Code  | Expected Resistance (Ohms) |  Maximum Value (Ohms) |  Minimum Value (Ohms) |   Measured Resistance (Ohms) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Yellow, Violet, Green, Gold  | Content Cell  | Content Cell  | Content Cell |4.758 * 10^6   |
-| Brown, Green, Black, Gold | Content Cell  | Content Cell  | Content Cell  | 19.4  |
-| Brown, Gray, Brown, Gold  | Content Cell  | Content Cell  | Content Cell  | 185.2  |
-| Gray, Red, Red, Gold  | Content Cell  | Content Cell  | Content Cell  | 8.25 * 10^3  |
+| Yellow, Violet, Green, Gold  | 4,700,000  | Content Cell  | Content Cell |4,758,000  |
+| Brown, Green, Black, Gold | 15  | Content Cell  | Content Cell  | 19.4  |
+| Brown, Gray, Brown, Gold  | 180  | Content Cell  | Content Cell  | 185.2  |
+| Gray, Red, Red, Gold  | 8,200  | Content Cell  | Content Cell  | 8,250  |
+
 
 Drawings
 Pictures
