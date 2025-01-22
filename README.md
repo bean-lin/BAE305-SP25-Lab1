@@ -22,11 +22,11 @@ Tables
 | Gray, Red, Red, Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
 
 
-| Code  | Expected Capacitance (F) |  Maximum Value (F) |  Minimum Value (F) |   Measured Capacitance (Ohms) | 
+| Code  | Expected Capacitance (F) |  Maximum Value (F) |  Minimum Value (F) |   Measured Capacitance | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| - | 4,700,000  | 4935000  | 4465000 |4,758,000  |
-| - | 15  | 15.75  | 14.25  | 19.4  |
-| - | 180  | 189  | 171  | 185.2  |
+| 734 | 4,700,000  | 4935000  | 4465000 | 0.30 nf |
+| 105 | 15  | 15.75  | 14.25  | 1.19 uF  |
+| 102 | 180  | 189  | 171  | 185.2  |
 | - | Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
 
 Drawings
