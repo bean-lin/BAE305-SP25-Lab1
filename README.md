@@ -24,7 +24,9 @@ Tables
 | Brown, Gray, Brown, Gold  | 180  | 189  | 171  | 185.2  |
 | Gray, Red, Red, Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
 
-Calculated the minimum and maximum values by using the equation $$V_{max} = V * (1+tolerance)$$ and $$V_{min} = V * (1-tolerance)$$
+Calculated the minimum and maximum values by using the following equations 
+
+$$V_{max} = V * (1+tolerance)$$ and $$V_{min} = V * (1-tolerance)$$
 
 **2)**
 
