@@ -53,6 +53,14 @@ Pictures
 
 Note: Auxillary ports use less than 0.1A, so current not measured
 
+**4)**
+| Measurement Method | Amplitude | Frequency |
+| ---- | ---- | ---- |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+| - | - | - |
+
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
