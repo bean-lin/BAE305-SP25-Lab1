@@ -24,10 +24,10 @@ Tables
 
 | Code  | Expected Capacitance |  Maximum Value |  Minimum Value |   Measured Capacitance | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 22j | -  | - | - | 0.30 nf |
-| 105 | -  |  - | -  | 1.19 uF  |
-| 102 | -  | -  | -  | 1.30nF |
-| 470uF | 470uF  | 8,610  | 7,790  | 522uF |
+| 22j | - | - | - | 0.30 nf |
+| 105 | - | - | - | 1.19 uF |
+| 102 | - | - | - | 1.30 nF |
+| 470uF | 470uF | - | - | 522uF |
 
 
 Note: Minimum DMM measurement is 300pF
