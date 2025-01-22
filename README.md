@@ -24,10 +24,12 @@ Tables
 
 | Code  | Expected Capacitance |  Maximum Value |  Minimum Value |   Measured Capacitance | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 22j |   |   |  | 0.30 nf |
+| 22j | -  | - | - | 0.30 nf |
 | 105 | 15  | 15.75  | 14.25  | 1.19 uF  |
 | 102 | 180  | 189  | 171  | 185.2  |
-| - | Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
+| - | Gold  | 8,200  | 8,610  | 7,790  | 8,250 |
+
+
 Note: Minimum DMM measurement is 300pF
 Drawings
 Pictures
