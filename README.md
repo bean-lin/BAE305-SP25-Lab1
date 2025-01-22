@@ -1,9 +1,9 @@
-# Lab report 1
+# Lab report 1: Knowing Your Instruments
 
-* Carlos A. Jarro
-* Anna Conda
+* Benjamin Lin
+* Avis Chen
 
-## This is my lab report
+## Lab Summary
 This report includes text and also figures that I linked from my repository.
 Like this:
 ![A test image](https://github.com/cjarro-uky/BAE305-SP24-Lab1/blob/main/20240110_100436.jpg)
