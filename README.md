@@ -63,7 +63,7 @@ Note: Auxillary ports use less than 0.1A, so current not measured
 | Counting Squares | $$4_{squares} * 5V/_{square} = 20V$$ | $$F = 1/T = 1/(5_{squares} * 100us/_{square} * 10^{-6} us/s) = $$  |
 | Cursor | &Delta;V = 20.4 | &Delta;t 484us |
 | Measurement | 20.40V | 2.092khz |
-| Fluke DMM | - | - |
+| Fluke DMM | 7.16V | 2.092khz |
 
 $$f = 1/T$$
 
