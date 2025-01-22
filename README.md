@@ -65,6 +65,8 @@ Note: Auxillary ports use less than 0.1A, so current not measured
 | Measurement | 20.40V | 2.092khz |
 | Fluke DMM | 7.16V | 2.092khz |
 
+Multimeter uses RMS, O-Scope measures peak to peak &Delta;T
+
 $$f = 1/T$$
 
 # Discussion: 
