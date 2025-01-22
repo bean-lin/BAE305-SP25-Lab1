@@ -11,8 +11,16 @@ The goal of this lab is to understand how to utilize several electronic testing 
 Engineering documentation necessary to repeat the project. Should include:
 Drawings
 Pictures
-Results: Data or outcome from the work. Should include:
+# Results: Data or outcome from the work. 
+Should include:
 Tables
+| Color Code  | Expected Resistance (Ohms) |  Maximum Value (Ohms) |  Minimum Value (Ohms) |   Measured Resistance (Ohms) | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+
 Drawings
 Pictures
 # Discussion: 
