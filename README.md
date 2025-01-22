@@ -24,12 +24,14 @@ Tables
 
 | Code  | Expected Capacitance |  Maximum Value |  Minimum Value |   Measured Capacitance | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 22j | 22.0pF | 23.1 | 20.9pF | 0.30nf |
+| 22j | 22.0pF | 23.1pF | 20.9pF | 0.30nf |
 | 105Z | 1.00uF | - | - | 1.19uF |
 | 102 | 1.00nF | - | - | 1.30nF |
 | 470uF | 470uF | - | - | 522uF |
 
 Note: Minimum DMM measurement is 300pF
+b. Polarity did **NOT** impact the reading of the electrolytic capacitor becuase it is a passive component.
+
 Drawings
 Pictures
 # Discussion: 
