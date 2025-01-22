@@ -38,9 +38,9 @@ Pictures
 
 | Voltage | Minimum Current | Measured Voltage |
 | ---- | ---- | ---- |
-| 1.5V | 250mA | - |
-| 7V | 250mA | - |
-| 12V | 250mA | - |
+| 1.5V | 250mA | 1.484V - 1.521V |
+| 7V | 250mA | 6.99V - 7.01V |
+| 12V | 250mA | 11.98V - 12.01V |
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
