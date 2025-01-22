@@ -14,6 +14,9 @@ Pictures
 # Results: Data or outcome from the work. 
 Should include:
 Tables
+
+**1)**
+
 | Color Code  | Expected Resistance (Ohms) |  Maximum Value (Ohms) |  Minimum Value (Ohms) |   Measured Resistance (Ohms) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Yellow, Violet, Green, Gold  | 4,700,000  | 4935000  | 4465000 |4,758,000  |
@@ -21,6 +24,7 @@ Tables
 | Brown, Gray, Brown, Gold  | 180  | 189  | 171  | 185.2  |
 | Gray, Red, Red, Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
 
+**2)**
 
 | Code  | Expected Capacitance |  Maximum Value |  Minimum Value |   Measured Capacitance | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -35,6 +39,8 @@ b. Polarity did **NOT** impact the reading of the electrolytic capacitor becuase
 
 Drawings
 Pictures
+
+**3)**
 
 | Voltage | Minimum Current | Measured Voltage |
 | ---- | ---- | ---- |
