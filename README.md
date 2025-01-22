@@ -5,6 +5,8 @@
 
   02/03/2025
 
+I reread the lab instructions, the report needs to be in the wiki, not the readme. I copied everything over for now, I'll put any future work there. -Avis
+
 # Lab Summary
 The goal of this lab is to understand how to utilize several electronic testing instruments that will be used in future experiments. In this lab, we tested xyz with abc
 # Methods/Tests: 
