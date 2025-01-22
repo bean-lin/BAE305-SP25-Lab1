@@ -17,7 +17,7 @@ Tables
 
 **1)**
 
-| Color Code  | Expected Resistance (Ohms) |  Maximum Value (Ohms) |  Minimum Value (Ohms) |   Measured Resistance (Ohms) | 
+| Color Code  | Expected Resistance (&Omega;) |  Maximum Value (&Omega;) |  Minimum Value (&Omega;) |   Measured Resistance (&Omega;) | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Yellow, Violet, Green, Gold  | 4,700,000  | 4935000  | 4465000 |4,758,000  |
 | Brown, Green, Black, Gold | 15  | 15.75  | 14.25  | 19.4  |
