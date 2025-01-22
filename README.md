@@ -30,6 +30,7 @@ Tables
 | 470uF | 470uF | - | - | 522uF |
 
 Note: Minimum DMM measurement is 300pF
+
 b. Polarity did **NOT** impact the reading of the electrolytic capacitor becuase it is a passive component.
 
 Drawings
