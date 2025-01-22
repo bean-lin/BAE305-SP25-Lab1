@@ -22,6 +22,13 @@ Tables
 | Gray, Red, Red, Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
 
 
+| Color Code  | Expected Capacitance (F) |  Maximum Value (F) |  Minimum Value (F) |   Measured Capacitance (Ohms) | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Yellow, Violet, Green, Gold  | 4,700,000  | 4935000  | 4465000 |4,758,000  |
+| Brown, Green, Black, Gold | 15  | 15.75  | 14.25  | 19.4  |
+| Brown, Gray, Brown, Gold  | 180  | 189  | 171  | 185.2  |
+| Gray, Red, Red, Gold  | 8,200  | 8,610  | 7,790  | 8,250  |
+
 Drawings
 Pictures
 # Discussion: 
