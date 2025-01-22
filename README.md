@@ -35,6 +35,12 @@ b. Polarity did **NOT** impact the reading of the electrolytic capacitor becuase
 
 Drawings
 Pictures
+
+| Voltage | Minimum Current | Measured Voltage |
+| ---- | ---- | ---- |
+| 1.5V | 250mA | - |
+| 7V | 250mA | - |
+| 12V | 250mA | - |
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
