@@ -47,6 +47,12 @@ Pictures
 | 1.5V | 250mA | 1.484V - 1.521V |
 | 7V | 250mA | 6.99V - 7.01V |
 | 12V | 250mA | 11.98V - 12.01V |
+| Aux 3.3VDC | N/A | 3.416V |
+| AUX 5.0VDC | N/A | 5.214V |
+| AUX 12VDC | N/A | 12.06V |
+
+Note: Auxillary ports use less than 0.1A, so current not measured
+
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
