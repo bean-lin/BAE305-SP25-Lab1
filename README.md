@@ -61,6 +61,8 @@ Note: Auxillary ports use less than 0.1A, so current not measured
 | - | - | - |
 | - | - | - |
 
+$$f = 1/T$$
+
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
