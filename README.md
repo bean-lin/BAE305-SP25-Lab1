@@ -56,7 +56,7 @@ Note: Auxillary ports use less than 0.1A, so current not measured
 **4)**
 | Measurement Method | Amplitude | Frequency |
 | ---- | ---- | ---- |
-| Counting Squares | $$4_(squares) * 5V/_(square) = 20V$$ | - |
+| Counting Squares | $$4_{squares} * 5V/_{square} = 20V$$ | - |
 | - | - | - |
 | - | - | - |
 | - | - | - |
