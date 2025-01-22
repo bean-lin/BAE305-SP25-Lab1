@@ -4,7 +4,7 @@
 * Avis Chen
 
 ## Lab Summary
-The goal of this lab is to understand how to utilize several electronic testing instruments
+The goal of this lab is to understand how to utilize several electronic testing instruments that will be used in future experiments. In this lab, we tested xyz with abc
 
 This report includes text and also figures that I linked from my repository.
 Like this:
