@@ -72,5 +72,10 @@ $$f = 1/T$$
 # Discussion: 
 What you can learn from the results obtained. Should include:
 Answers to proposed questions.
+
+Discussion Question 1: Do the instruments (power supply, DMM) agree with each other? Why?
+
+Discussion Question 2: Do the instruments (osciloscope, DMM) agree? Why?
+
 # Conclusion: 
 Most important things derived/learned from the lab and report (one or two paragraphs).
